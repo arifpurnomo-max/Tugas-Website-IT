@@ -225,8 +225,8 @@ section {
   color: #fff;
 }
 .Profiles .box-container .box img {
-  height: 7rem;
-  margin-bottom: 0.5rem;
+  height: 10rem;
+  margin-bottom: 0.3rem;
 }
 .Profiles .box-container .box h3 {
   font-size: 2rem;
@@ -284,7 +284,7 @@ section {
   color: #fff;
 }
 .facilities .box-container .box img {
-  height: 10rem;
+  height: 20rem;
   margin-bottom: 0.5rem;
 }
 .facilities .box-container .box h3 {
